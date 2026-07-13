@@ -1,4 +1,4 @@
-# SPEEDBIRD PILOT ACADEMY — STAGE 2 ASSESSMENT DAY
+# SPEEDBIRD PILOT ACADEMY — STAGE 2 ASSESSMENT DAY AT BA WATERSIDE
 ### Friday Preparation Guide · James George · Skyborne pathway · July 2026
 
 ---
@@ -8,32 +8,42 @@
 | Stage | What it is | Status |
 |---|---|---|
 | Stage 1 | Online application + BA online aptitude/psychometric testing + verbal speaking activity | ✅ Passed |
-| **Stage 2** | **Skyborne online testing → in-person assessment day → online interview with Skyborne** | **← Friday** |
-| Stage 3 | BA final assessment centre at Waterside (group exercise + multitasking half-day, then a full individual assessment day) | Sept–Oct 2026 |
+| **Stage 2** | **Skyborne online testing → in-person assessment day at BA Waterside → online interview with Skyborne** | **← Friday, at Waterside** |
+| Stage 3 | BA final assessment, also at Waterside: group exercise + multitasking half-day, then a full individual day ("Speedy" interviews, another group exercise, competency exercise, reflective interview, Heritage Centre tour) | Sept–Oct 2026 |
 
-Stage 2 in-person days run late June to early August 2026 — you're mid-window. Passing Friday typically leads to an **online 1:1 interview with a Skyborne representative in mid-to-late August**, so some of the interview prep below may be used then rather than on the day — prepare it anyway, as some centres include a competency interview on the day itself.
+Stage 2 in-person days run late June to early August 2026 — you're mid-window. The venue is **BA's Waterside HQ (Harmondsworth, next to Heathrow)** even though this is the flight-school stage: Skyborne and FTEJerez run their assessment slots there, with roughly **7–16 candidates per slot**, and BA reps are present all day. This cycle's candidates consistently report that BA and the flight schools actively try to help you perform at your best — it's rigorous but not hostile.
 
-## What to Expect on the Day
+**The competency interview is normally NOT on the day this year.** Candidates who pass the Waterside day are invited to an **online 1:1 interview with Skyborne in mid-to-late August**. Prepare the interview material anyway — formats have varied between slots, and the waiting-room conversations with BA/Skyborne reps are informal assessment either way.
 
-Candidate reports from this year's cycle describe four components:
+## This Year's Plan for the Day
 
-### 1. Aptitude battery (cut-e / Aon style)
-Computer-based tests of the kind you'll have seen at Stage 1, but harder and supervised:
-- **Monitoring ability / multitasking** — track instruments while doing mental arithmetic or memory tasks
-- **Spatial orientation** — attitude indicator / compass heading questions
-- **Reaction speed and hand-eye coordination**
-- **Short-term memory** — sequences, patterns, call-sign recall
+Reports from the 2026 cycle (PPRuNe thread + candidates posting from their assessment days) describe a day **split into two parts** — a group session and an individual testing session — covering three assessed exercises:
 
-> **Successful cadet's advice:** the maths and physics content is **GCSE level**, and they usually send preparation information beforehand — check your inbox (and spam) for it and work through everything they send.
+### 1. The Eagle capacity test (BA "Flight Capacity" test)
+A game-based simulated-cockpit assessment — the centrepiece of the individual testing. This year's descriptions: you manage a simulated flight environment while tasks stack up —
+- **Responding to ATC instructions** (listen, read back, act — while doing everything else)
+- **Monitoring TCAS / surrounding traffic**
+- **Managing system issues** as they're thrown at you
+- **Mental maths and data questions** woven through it (GCSE level)
 
-**Prep before Friday:** an hour a day on a cut-e/Aon practice platform (SkyTest, pilotaptitudetest, or the free Aon practice modules). Practise mental arithmetic without a calculator — speed/distance/time, percentages, fuel-style calculations. Your PPL nav work is a genuine advantage here; sharpen it.
+It measures spatial orientation, hand-eye coordination, divided attention, multitasking, response time, short-term memory and **stress tolerance**. It's designed to keep loading you until you saturate — everyone saturates; what's scored is how much you handle and how you degrade.
 
-**GCSE refresher list (physics + maths):** forces and moments · pressure · speed/distance/time and acceleration · basic electricity (V=IR, power) · energy and work · ratios, percentages, fractions without a calculator · reading graphs · unit conversions (kts/mph/km-h, litres/gallons, feet/metres). Your PPL theory already covers most of this — a BBC Bitesize skim of the rest is enough.
+- **Prioritise ruthlessly**: fly-the-aircraft tasks first, then respond, then the nice-to-haves. Dropping a secondary task calmly scores better than freezing on everything.
+- Aviate–navigate–communicate in test form — the exact skill from your deteriorating-weather pan-pan story.
+- Basic aviation terminology fluency helps you parse instructions faster — your PPL RT experience is a real edge over non-flyers in the room.
 
-### 2. Capacity test ("Eagle" style)
-A combined workload test — typically flying a cursor/tracking task while responding to audio instructions and secondary tasks. It measures **spare capacity under increasing workload**, exactly like flying an aircraft while handling radio calls.
-- You cannot cram for it, but you can arrive calm, rested, and familiar with the concept: **prioritise the primary task** (the tracking), accept that you will drop secondary items, and never freeze. Deteriorating gracefully scores better than perfection followed by collapse.
-- This is aviate–navigate–communicate in test form — the exact skill you used in your deteriorating-weather pan-pan story.
+> **Successful cadet's advice:** the maths and physics content is **GCSE level**, and they send preparation information through beforehand — check your inbox (and spam) and work through everything they send.
+
+**GCSE refresher list:** forces and moments · pressure · speed/distance/time and acceleration · basic electricity (V=IR, power) · energy and work · ratios, percentages, fractions without a calculator · reading graphs · unit conversions (kts/mph/km-h, litres/gallons, feet/metres). Your PPL theory already covers most of this.
+
+### 2. The handling test
+New confirmed component this year — a **flight simulator handling assessment**, reported as done **with a partner**, alternating between flying (pilot) and supporting (co-pilot) roles. The task is basic raw-data handling: **flying instructed changes of altitude, speed and heading** accurately and smoothly.
+
+This is your strongest event — 70 hours of PPL and years of gliding when most candidates have never touched controls. Fly it like an instrument student, not a gamer:
+- **Small corrections, then wait** — don't chase the needles; a jet sim responds slowly, so make a change, hold it, observe.
+- **Attitude first**: set the attitude/power that gives the target, then fine-tune. Verbalising ("climbing to 4,000, speed 210") shows structured thinking.
+- **Follow instructions exactly** — they're marking accuracy and workload management, not flair. If told 180 knots, hold 180, not 185.
+- **Be a great co-pilot in the other seat**: monitor actively, support your partner ("approaching 4,000" if invited to assist), never take over or backseat-fly. The pairing is deliberate — they're watching CRM in both roles. Your partner doing well doesn't cost you anything; assessors mark you independently.
 
 ### 3. Group exercise
 Consensus-based problem solving in a group of ~6–10 (classic formats: desert/sea survival ranking, planning task with constraints, resource allocation).
@@ -49,8 +59,8 @@ Consensus-based problem solving in a group of ~6–10 (classic formats: desert/s
 - **Concede gracefully** when the group prefers another idea; state your reasoning once, then commit to the group decision. That's CRM in miniature.
 - **Never** talk over people, dismiss ideas, or fight to "win". One domineering moment can fail the exercise.
 
-### 4. Competency interview (~45 min, STAR format) — on the day or at the August online stage
-Covered in detail in `Interview_Prep_BA.md`. Big themes reported this cycle:
+### After the day: the online interview (~45 min, STAR format) — mid-to-late August
+Pass Friday and the next step is an online 1:1 with a Skyborne representative. Covered in detail in `Interview_Prep_BA.md`. Big themes reported this cycle:
 - **"What does integrity mean to you?"** — asked early and consistently; have a genuine answer ready (your oil-level delay story is a perfect illustration).
 - Why BA / why Speedbird / why Skyborne · why short-haul first
 - Teamwork, speaking up to authority (CRM), mistake + learning, calm under pressure, customer service
@@ -75,7 +85,7 @@ Everything on the day maps to these — including how you behave at lunch and be
 Direct advice from a successful cadet: the big waiting area is daunting, but **go and talk to people — it's a massive part of the day**. There are two reasons:
 
 1. Assessors and reps circulate; a candidate chatting easily with strangers is demonstrating exactly the crew-room sociability BA hires for.
-2. **The reflective interview question.** At least one successful candidate was asked: *"Who do you think should get through from this process, and why?"* You can only answer that well if you've actually spoken to people. So learn names, ask about their routes into flying, remember one genuine detail about two or three of them.
+2. **The reflective interview question.** A successful cadet was asked — in the reflective interview at the Stage 3 final day — *"Who do you think should get through from this process, and why?"* The habit starts Friday: you can only ever answer that well if you actually speak to people. Learn names, ask about their routes into flying, remember one genuine detail about two or three of them. (Some of Friday's candidates will reappear at Stage 3 and may end up in your Skyborne cohort.)
 
 **How to answer it if asked:** name real people, cite real qualities you observed ("Tom brought the group back on task twice without talking over anyone — that's the person I'd want in the other seat"), and be generous. Praising a rival convincingly is itself the answer — it shows self-assurance, honest observation, and zero insecurity. Never dodge with "everyone deserves it" and never talk anyone down.
 
@@ -83,10 +93,11 @@ Direct advice from a successful cadet: the big waiting area is daunting, but **g
 
 - [ ] Re-read your invitation email: exact venue, arrival time, what to bring (ID/passport, certificates, logbook if requested)
 - [ ] **Dress:** business suit, conservative. Polished shoes. Airline-standard grooming.
-- [ ] Plan the journey with a big buffer — if it's Waterside (Harmondsworth, next to Heathrow): allow for M25/M4 traffic or take the Elizabeth line to Heathrow T2&3 area; aim to arrive 30–40 min early
+- [ ] Plan the journey to **Waterside (Harmondsworth, next to Heathrow)** with a big buffer — allow for M25/M4 traffic, or Elizabeth line to Heathrow then bus/taxi; aim to arrive 30–40 min early
 - [ ] Print your invitation + take photo ID
 - [ ] Prepare 2–3 questions to ask them (e.g. "What distinguishes the cadets who thrive at Vero Beach?", "How are Speedbird cadets integrated into the BA community during training?")
-- [ ] Practise aptitude tests Mon–Thu, but **stop Thursday evening** — sleep matters more than one more session
+- [ ] Practise Eagle-style capacity/multitasking tests Mon–Thu (SkyTest or similar platforms have BA Flight Capacity practice), plus 20 min/day of no-calculator mental maths — but **stop Thursday evening**; sleep matters more than one more session
+- [ ] One or two sessions on a home sim (or even a phone sim) flying precise altitude/speed/heading changes on instruments — smoothness practice for the handling test
 - [ ] Say your "why BA" and integrity answers out loud at least three times
 - [ ] Eat a proper breakfast; take water and a snack — capacity tests punish low blood sugar
 
