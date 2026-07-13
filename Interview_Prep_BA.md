@@ -117,10 +117,10 @@ Your stories are the same proven set from the Jet2 prep — what changes is the 
 
 ## Q11. "What do you know about the Speedbird Pilot Academy / Skyborne?"
 
-- Launched 2023 as BA's first fully funded cadet scheme; 2026 intake: **160 places, £18m**.
+- Launched 2023 as BA's first fully funded cadet scheme; 2026 intake: **160 places, £18m** (~£100k per place — down from 200 places in 2025, so this year is more selective).
 - Training partners: **Skyborne** (UK preferred supplier) and FTEJerez.
-- My Skyborne pathway: ATPL ground school in Gloucestershire → single-engine CPL + UPRT at **Vero Beach, Florida** → multi-engine IR and APS MCC in the UK → A320 type rating → BA short-haul as a new First Officer.
-- Skyborne welcomed its June 2026 Speedbird cohort to the UK campus — the pipeline I'd be joining.
+- My Skyborne pathway: ATPL ground school in Gloucestershire (13 UK CAA exams) → **~6 months at Vero Beach, Florida** for all single-engine flying through CPL + A-UPRT on Piper Warriors and Arrows → back to the UK for the multi-engine IR on the DA42 and APS MCC → A320 type rating → BA short-haul as a new First Officer.
+- The pipeline is live: the June 2026 cohort has just arrived at Vero Beach to start flying, a new intake has begun UK ground school, and the first Speedbird cadets have already graduated from Skyborne.
 
 *(Bonus credibility: Skyborne also trains Jet2 FlightPath cadets — showing you know the ATO landscape signals genuine research.)*
 
@@ -154,10 +154,11 @@ They expect you to know where you're asking to train:
 |---|---|
 | **UK campuses** | Gloucestershire Airport (HQ) and Bournemouth — ground school and IR phases |
 | **UK fleet** | Diamond **DA42-VI** twins (G1000 glass cockpit, FADEC) plus ALSIM DA42 simulators |
-| **US campus** | Vero Beach, Florida — 50+ **Piper Warriors, Arrows and Seminoles**, plus Redbird simulators |
-| **Course shape (Speedbird)** | Phase 1: ATPL theory (UK) → Phase 2: single-engine CPL + A-UPRT (Vero Beach) → Phase 3: multi-engine IR on the DA42 (UK) → Phase 4: APS MCC, ~40 hrs on B737 MAX or A320 sims |
+| **US campus — where you'll spend ~6 months** | **Vero Beach, Florida** — Skyborne's fair-weather flying base: **60+ Piper single- and multi-engine aircraft** (Warriors, Arrows, Seminoles) and **four Redbird MCX-E simulators**. Florida's weather means consistent scheduling year-round — the reason the whole single-engine phase happens there |
+| **Course shape (Speedbird)** | Phase 1: ATPL theory, 13 UK CAA exams, ~6–8 months (UK) → Phase 2: **all single-engine flying through CPL + A-UPRT at Vero Beach**, ~6 months → Phase 3: multi-engine IR on the DA42, 4–6 months (UK) → Phase 4: APS MCC, ~40 hrs on B737 MAX or A320 sims → A320 type rating |
+| **Right now (July 2026)** | The June 2026 Speedbird cohort has just finished UK ground school and **arrived at Vero Beach** to start single-engine flying — while a new 10-cadet intake began ground school at the UK campus. The first-ever Speedbird cadets have already completed training with Skyborne |
 | **Other airline partners** | BA Speedbird (UK preferred supplier), Jet2 FlightPath, easyJet, Ryanair programmes |
-| **Good interview drop** | "I like that Skyborne runs the IR on the DA42's glass cockpit — it means the transition to the A320's automation philosophy starts before the type rating." |
+| **Good interview drops** | "The structure makes sense to me — Florida's weather gives you uninterrupted consistency exactly when you're building raw handling skills, then the IR comes back to the UK where you learn instrument flying in the airspace and weather you'll actually operate in." · "I like that the IR is on the DA42's glass cockpit — the transition to the A320's automation philosophy starts before the type rating." |
 
 *(Your glider background is a lovely hook here: from grandad's home-built gliders to a G1000 DA42 is a story about the same fundamentals at every level of technology.)*
 
@@ -166,7 +167,7 @@ They expect you to know where you're asking to train:
 - **Brand-new First class suite** unveiled, launching from **mid-2026** on the retrofitted **A380s** — part of the biggest cabin overhaul in years (up to 110 Club Suites per A380). Shows the premium strategy in action.
 - **£7bn transformation programme** continuing: cabins, IT, operational resilience.
 - **Network growth**: St. Louis launched 2026 (27th US destination); BA Cityflyer adding Toulon Saint-Tropez, Olbia and San Sebastián for summer 2026.
-- **Speedbird Academy expansion**: 160 fully funded places, £18m — double-digit cohorts already arriving at Skyborne's UK campus (June 2026 intake).
+- **Speedbird Academy in motion**: 160 fully funded places and £18m in 2026; the June 2026 cohort has just arrived at **Vero Beach, Florida** to begin flight training, and the first-ever Speedbird cadets have already completed the Skyborne course.
 - **Sustainability**: BA Better World — net zero 2050, 10% SAF by 2030.
 
 **How to deploy:** attach news to *your* point, don't recite it. E.g. "With the A380 retrofit and 32 787-10s arriving from 2027, BA is clearly planning for the next two decades of long-haul — that's the timescale of the career I'm starting."

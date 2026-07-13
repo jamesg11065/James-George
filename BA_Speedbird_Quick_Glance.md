@@ -49,9 +49,9 @@
 | | |
 |---|---|
 | **Launched** | 2023 — BA's first ever **fully funded** cadet scheme (covers the ~£100k+ training cost) |
-| **2026 intake** | **160 fully funded places · £18m investment** — the biggest intake yet |
-| **Training partners** | **Skyborne Airline Academy** (UK preferred supplier — Gloucestershire ground school, Vero Beach Florida flying) and FTEJerez (Spain) |
-| **Your pathway** | Skyborne: ATPL ground school in Gloucestershire → single-engine CPL + UPRT at Vero Beach, FL → multi-engine IR + APS MCC back in the UK → A320 type rating → BA short-haul |
+| **2026 intake** | **160 fully funded places · £18m investment** (~£100k per place; 2025 offered 200, so 2026 is more selective) |
+| **Training partners** | **Skyborne Airline Academy** (UK preferred supplier — Gloucestershire ground school, **Vero Beach, Florida** for the core flying phase) and FTEJerez (Spain) |
+| **Your pathway** | Skyborne: ATPL ground school in Gloucestershire (13 UK CAA exams, ~6–8 months) → **Vero Beach, Florida** for all single-engine flying through CPL + A-UPRT (~6 months on Piper Warriors/Arrows) → back to the UK for multi-engine IR on the DA42 + APS MCC → A320 type rating → BA short-haul |
 | **Selection** | Stage 1: online application + aptitude testing → **Stage 2: flight-school (Skyborne) online testing + in-person assessment day + online interview** → Stage 3: BA final assessment centre at Waterside |
 | **Why it matters to BA** | Removes the financial barrier to entry, widens the talent pool, and secures a pilot pipeline as BA grows and a generation of pilots retires |
 
