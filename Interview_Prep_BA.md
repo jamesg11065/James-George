@@ -126,8 +126,66 @@ Your stories are the same proven set from the Jet2 prep — what changes is the 
 
 ---
 
+## The Nine Pilot Competencies — Good AND Bad Example for Each ⭐
+
+Direct advice from a successful cadet: build a **good example and a bad example** for each of the nine ICAO pilot competencies, write them in a notebook, and get them in your head. Interviewers pull questions from this framework, and "tell me about a time you did this badly" is as likely as the positive version. A "bad" example is only bad if you can't show what changed — every one below ends in a corrected behaviour.
+
+| # | Competency | Good example (yours) | Bad / developmental example (yours) |
+|---|---|---|---|
+| 1 | **Application of Knowledge** | GCSE-to-PPL theory applied in real nav planning; explaining the no-diving rule via spinal-injury mechanics to the angry parent | Early PPL: relied on rote checklist knowledge without understanding *why* — the oil-limit moment taught you to reason from the underlying system, not just the number |
+| 2 | **Application of Procedures & Regulations** | Oil at lower limit → refused to depart, topped up, lost the slot (integrity story) | Misjudged approach: initially tried to salvage a non-stable approach before going around — now the stable-approach criteria decide, not your ego |
+| 3 | **Communication** | Pan-pan call — early, calm, structured; de-escalating the angry parent | Nav error flight: didn't tell ATC anything until *after* re-fixing position — you now report uncertainty early rather than waiting until you've solved it alone |
+| 4 | **Flight Path Management — Automation** | Disciplined use of G1000-style aids in nav training; cross-checking instruments against the visual picture | Early tendency to follow the moving map instead of the chart — the misidentified checkpoint happened partly because the screen made you overconfident. Now: raw-data cross-check every checkpoint |
+| 5 | **Flight Path Management — Manual Control** | Glider thermal-collapse recovery: energy management with no engine; conservative circuit flown accurately under stress | The high-and-fast final approach itself — poor energy management on the day; fixed by setting up earlier and defining a go-around gate |
+| 6 | **Leadership & Teamwork** | School gala zone redistribution; bringing the quiet swimmer/colleague dynamic into play | A time you stayed in your zone too literally early in lifeguarding — did your job but didn't monitor the team; the gala taught you to scan the whole operation |
+| 7 | **Problem Solving & Decision Making** | Thermal collapse: options identified before needed, committed decisively; go-around decision | Get-there-itis nav error: pressed on based on an assumption because stopping felt like defeat — now you pause and verify the moment reality stops matching the plan |
+| 8 | **Situational Awareness** | Spotting the drowning child from subtle posture changes; tracking cloud building west of the CAS boundary and speaking up | Losing positional awareness on the cross-country by making the landscape fit the chart — the definitive SA failure, honestly owned, with the verbalise-checkpoints fix |
+| 9 | **Workload Management** | Aviate-navigate-communicate sequencing in the deteriorating-weather flight — one problem at a time, in order | Early solo circuits: trying to do everything at once on final (radio, checks, flying) until the approach fell apart — you learned to shed low-priority tasks and fly first |
+
+**How to use this table:** the right-hand column entries marked from real events are ready to tell. Two of them (rote knowledge early on, staying in your zone too literally, doing everything at once in early circuits) are *plausible reconstructions of typical learning moments* — before Friday, spend ten minutes replacing each with the real memory of yours that fits, so every answer is genuinely true. Write all 18 in your notebook, one page per competency, STAR bullets only.
+
+---
+
+## Know Your Flight School — Skyborne Research
+
+They expect you to know where you're asking to train:
+
+| | |
+|---|---|
+| **UK campuses** | Gloucestershire Airport (HQ) and Bournemouth — ground school and IR phases |
+| **UK fleet** | Diamond **DA42-VI** twins (G1000 glass cockpit, FADEC) plus ALSIM DA42 simulators |
+| **US campus** | Vero Beach, Florida — 50+ **Piper Warriors, Arrows and Seminoles**, plus Redbird simulators |
+| **Course shape (Speedbird)** | Phase 1: ATPL theory (UK) → Phase 2: single-engine CPL + A-UPRT (Vero Beach) → Phase 3: multi-engine IR on the DA42 (UK) → Phase 4: APS MCC, ~40 hrs on B737 MAX or A320 sims |
+| **Other airline partners** | BA Speedbird (UK preferred supplier), Jet2 FlightPath, easyJet, Ryanair programmes |
+| **Good interview drop** | "I like that Skyborne runs the IR on the DA42's glass cockpit — it means the transition to the A320's automation philosophy starts before the type rating." |
+
+*(Your glider background is a lovely hook here: from grandad's home-built gliders to a G1000 DA42 is a story about the same fundamentals at every level of technology.)*
+
+## BA Latest News — Use One or Two of These
+
+- **Brand-new First class suite** unveiled, launching from **mid-2026** on the retrofitted **A380s** — part of the biggest cabin overhaul in years (up to 110 Club Suites per A380). Shows the premium strategy in action.
+- **£7bn transformation programme** continuing: cabins, IT, operational resilience.
+- **Network growth**: St. Louis launched 2026 (27th US destination); BA Cityflyer adding Toulon Saint-Tropez, Olbia and San Sebastián for summer 2026.
+- **Speedbird Academy expansion**: 160 fully funded places, £18m — double-digit cohorts already arriving at Skyborne's UK campus (June 2026 intake).
+- **Sustainability**: BA Better World — net zero 2050, 10% SAF by 2030.
+
+**How to deploy:** attach news to *your* point, don't recite it. E.g. "With the A380 retrofit and 32 787-10s arriving from 2027, BA is clearly planning for the next two decades of long-haul — that's the timescale of the career I'm starting."
+
+---
+
+## Q12. "Who do you think should get through from this process, and why?" *(reflective — asked at the end for at least one successful candidate)*
+
+This is really a question about **you**: do you observe people accurately, can you praise a competitor without insecurity, and did you engage with the group at all?
+
+- Name real candidates you spoke to (waiting room + group exercise). Cite one specific observed behaviour each.
+- Frame it in competency language: "She managed the time for us without dominating — that's workload management and teamwork in one."
+- Be generous and honest; never say "me", never rank yourself above others, never say "everyone".
+
+---
+
 ## Delivery Notes
 
+- **Write your answers in a notebook** (successful cadet's method) — the act of writing them fixes them in your head far better than re-reading a document. One page per competency: good example, bad example, STAR bullets.
 - 90 seconds per story; spend most of it on **Action**. Pause, then give the closing line as your own thought — never recited.
 - Drop **one** fact per answer (£2.23bn profit, 160 places, 10% SAF by 2030) — one lands as awareness, three sounds like Wikipedia.
 - If asked something with no prepared story: pause, say "Let me pick the best example," and structure it STAR out loud. Composure in that moment *is* the answer.

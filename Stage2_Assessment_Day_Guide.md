@@ -24,7 +24,11 @@ Computer-based tests of the kind you'll have seen at Stage 1, but harder and sup
 - **Reaction speed and hand-eye coordination**
 - **Short-term memory** — sequences, patterns, call-sign recall
 
+> **Successful cadet's advice:** the maths and physics content is **GCSE level**, and they usually send preparation information beforehand — check your inbox (and spam) for it and work through everything they send.
+
 **Prep before Friday:** an hour a day on a cut-e/Aon practice platform (SkyTest, pilotaptitudetest, or the free Aon practice modules). Practise mental arithmetic without a calculator — speed/distance/time, percentages, fuel-style calculations. Your PPL nav work is a genuine advantage here; sharpen it.
+
+**GCSE refresher list (physics + maths):** forces and moments · pressure · speed/distance/time and acceleration · basic electricity (V=IR, power) · energy and work · ratios, percentages, fractions without a calculator · reading graphs · unit conversions (kts/mph/km-h, litres/gallons, feet/metres). Your PPL theory already covers most of this — a BBC Bitesize skim of the rest is enough.
 
 ### 2. Capacity test ("Eagle" style)
 A combined workload test — typically flying a cursor/tracking task while responding to audio instructions and secondary tasks. It measures **spare capacity under increasing workload**, exactly like flying an aircraft while handling radio calls.
@@ -34,11 +38,14 @@ A combined workload test — typically flying a cursor/tracking task while respo
 ### 3. Group exercise
 Consensus-based problem solving in a group of ~6–10 (classic formats: desert/sea survival ranking, planning task with constraints, resource allocation).
 
-**Scored on collaboration, not dominance.** Assessors mark behaviours, not the answer:
+**Scored on collaboration, not dominance.** A successful cadet's summary: *"the group task isn't about the actual task they've set you — they are marking you on how you come across and communicate with others. Listening is the key thing."* Assessors mark behaviours, not the answer:
+
+- **Claim the timekeeper role in the first minute** — say the exact words: *"I'll monitor the time and keep the group updated."* Then actually do it: give updates throughout ("we're halfway", "5 minutes left — shall we start converging on a decision?"). It keeps the task on track and puts structured, visible contributions on your scoresheet all the way through.
+- **Listen above everything** — use people's actual points when building the decision, and aim for an outcome that everyone has had a hand in. Consensus that pleases the group scores; a "correct" answer forced through doesn't.
+- **Bring quiet people in by name**: "We haven't heard from you yet — what do you think about the problem?" One of the highest-scoring moves available, and it directly showcases the leadership BA wants.
+- **Cage a dominator gently** — don't confront; redirect: "That's one option — before we settle, can we hear what [quiet person] thinks?" You look like the leader; they look like the problem.
 - **Contribute early** — say something useful in the first two minutes so you're on the scoresheet.
 - **Build on others**: "I like Sarah's point about X — could we combine it with…" is worth more than a brilliant solo idea.
-- **Bring quiet people in**: "We haven't heard from you yet — what do you think?" is one of the highest-scoring moves available.
-- **Track the time** — offering to timekeep, or flagging "we've got 10 minutes left, shall we start converging?" shows situational awareness.
 - **Concede gracefully** when the group prefers another idea; state your reasoning once, then commit to the group decision. That's CRM in miniature.
 - **Never** talk over people, dismiss ideas, or fight to "win". One domineering moment can fail the exercise.
 
@@ -62,6 +69,15 @@ Everything on the day maps to these — including how you behave at lunch and be
 7. **Customer focus** — BA is a premium brand; pilots are part of the product
 
 **You are being observed the whole day.** Be warm to other candidates (they may become your course-mates), engage with the BA/Skyborne reps, ask good questions.
+
+## The Waiting Room Is Part of the Assessment
+
+Direct advice from a successful cadet: the big waiting area is daunting, but **go and talk to people — it's a massive part of the day**. There are two reasons:
+
+1. Assessors and reps circulate; a candidate chatting easily with strangers is demonstrating exactly the crew-room sociability BA hires for.
+2. **The reflective interview question.** At least one successful candidate was asked: *"Who do you think should get through from this process, and why?"* You can only answer that well if you've actually spoken to people. So learn names, ask about their routes into flying, remember one genuine detail about two or three of them.
+
+**How to answer it if asked:** name real people, cite real qualities you observed ("Tom brought the group back on task twice without talking over anyone — that's the person I'd want in the other seat"), and be generous. Praising a rival convincingly is itself the answer — it shows self-assurance, honest observation, and zero insecurity. Never dodge with "everyone deserves it" and never talk anyone down.
 
 ## Logistics Checklist — Do Before Thursday Night
 
