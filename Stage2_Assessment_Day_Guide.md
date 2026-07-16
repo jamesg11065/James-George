@@ -15,9 +15,18 @@ Stage 2 in-person days run late June to early August 2026 — you're mid-window.
 
 **The competency interview is normally NOT on the day this year.** Candidates who pass the Waterside day are invited to an **online 1:1 interview with Skyborne in mid-to-late August**. Prepare the interview material anyway — formats have varied between slots, and the waiting-room conversations with BA/Skyborne reps are informal assessment either way.
 
-## This Year's Plan for the Day
+## Your Day — Confirmed by Your Invitation
 
-Reports from the 2026 cycle (PPRuNe thread + candidates posting from their assessment days) describe a day **split into two parts** — a group session and an individual testing session — covering three assessed exercises:
+> **From your invitation email:** the assessment runs **11:00–16:30** and consists of **a group exercise and a technical test. Calculators are not needed.**
+>
+> **No interview on Friday.** The competency interview is the separate **online 1:1 with Skyborne in mid-to-late August**, if you pass the day. Prepare it for then — and remember the informal conversations with BA/Skyborne reps on the day still shape impressions.
+
+**Reading your email against this cycle's candidate reports:**
+- **"Technical test" + "no calculators"** = the computer-based individual testing block. Candidates this cycle report it spanning GCSE-level maths/physics questions and Eagle-style capacity testing (some slots also had a sim handling element — formats vary slightly between slots, so be ready for any of the three below).
+- **11:00–16:30 (5½ hours)** matches the two-part structure: one block for the group exercise, one for individual testing, with breaks and briefings between — those breaks are the waiting-room networking time.
+- The 11:00 start is kind: no dawn alarm, but Friday-lunchtime M25/M4 traffic instead — still leave a big buffer.
+
+The three exercises reported at Waterside this cycle:
 
 ### 1. The Eagle capacity test (BA "Flight Capacity" test)
 A game-based simulated-cockpit assessment — the centrepiece of the individual testing. This year's descriptions: you manage a simulated flight environment while tasks stack up —
@@ -36,8 +45,8 @@ It measures spatial orientation, hand-eye coordination, divided attention, multi
 
 **GCSE refresher list:** forces and moments · pressure · speed/distance/time and acceleration · basic electricity (V=IR, power) · energy and work · ratios, percentages, fractions without a calculator · reading graphs · unit conversions (kts/mph/km-h, litres/gallons, feet/metres). Your PPL theory already covers most of this.
 
-### 2. The handling test
-New confirmed component this year — a **flight simulator handling assessment**, reported as done **with a partner**, alternating between flying (pilot) and supporting (co-pilot) roles. The task is basic raw-data handling: **flying instructed changes of altitude, speed and heading** accurately and smoothly.
+### 2. The handling test *(reported in some slots — may or may not be in yours)*
+A **flight simulator handling assessment**, reported as done **with a partner**, alternating between flying (pilot) and supporting (co-pilot) roles. The task is basic raw-data handling: **flying instructed changes of altitude, speed and heading** accurately and smoothly.
 
 This is your strongest event — 70 hours of PPL and years of gliding when most candidates have never touched controls. Fly it like an instrument student, not a gamer:
 - **Small corrections, then wait** — don't chase the needles; a jet sim responds slowly, so make a change, hold it, observe.
@@ -93,7 +102,8 @@ Direct advice from a successful cadet: the big waiting area is daunting, but **g
 
 - [ ] Re-read your invitation email: exact venue, arrival time, what to bring (ID/passport, certificates, logbook if requested)
 - [ ] **Dress:** business suit, conservative. Polished shoes. Airline-standard grooming.
-- [ ] Plan the journey to **Waterside (Harmondsworth, next to Heathrow)** with a big buffer — allow for M25/M4 traffic, or Elizabeth line to Heathrow then bus/taxi; aim to arrive 30–40 min early
+- [ ] Plan the journey to **Waterside (Harmondsworth, next to Heathrow)** for an **11:00 start** with a big buffer — Friday late-morning M25/M4 traffic, or Elizabeth line to Heathrow then bus/taxi; aim to arrive by ~10:20
+- [ ] Eat lunch-aware: the day runs to 16:30 — take a snack in case lunch provision is light
 - [ ] Print your invitation + take photo ID
 - [ ] Prepare 2–3 questions to ask them (e.g. "What distinguishes the cadets who thrive at Vero Beach?", "How are Speedbird cadets integrated into the BA community during training?")
 - [ ] Practise Eagle-style capacity/multitasking tests Mon–Thu (SkyTest or similar platforms have BA Flight Capacity practice), plus 20 min/day of no-calculator mental maths — but **stop Thursday evening**; sleep matters more than one more session
